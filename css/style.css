@@ -72,6 +72,7 @@ body {
 #submit {
   margin-top: 10px;
   padding: 5px 10px;
+  border-radius: 8px;
   background-color: #f1c512;
   font-weight: 700;
 }
@@ -139,8 +140,10 @@ h2 {
   padding: 10px 20px;
   background-color: #f1c512;
   border: none;
+  border-radius: 6px;
   margin-bottom: 10px;
   font-size: 16px;
+  cursor: pointer;
 }
 
 #footer {
